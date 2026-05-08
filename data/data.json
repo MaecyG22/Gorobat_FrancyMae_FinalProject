@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Allowance",
+        "amount": 1550.0,
+        "transaction_type": "Income",
+        "description": "Weekly Allowance"
+    },
+    {
+        "category": "Food",
+        "amount": 150.0,
+        "transaction_type": "Expense",
+        "description": "Lunch at School Canteen"
+    }
+]
