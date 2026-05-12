@@ -19,6 +19,9 @@ CashTrack is a CLI-based Python application designed to help students manage the
 - Lists and Dictionaries
 - Algorithms and Data Processing
 
+YOUTUBE LINK FOR DEMONSTRATION
+https://youtu.be/3nmhUf1ZDYc
+
 ## Installation
 1. Clone the repository.
 2. Open the project folder in VS Code.
@@ -27,5 +30,3 @@ CashTrack is a CLI-based Python application designed to help students manage the
 ```bash
 python src/main.py
 
-YOUTUBE LINK FOR DEMONSTRATION
-https://youtu.be/3nmhUf1ZDYc
