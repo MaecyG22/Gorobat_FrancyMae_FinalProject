@@ -26,3 +26,6 @@ CashTrack is a CLI-based Python application designed to help students manage the
 
 ```bash
 python src/main.py
+
+YOUTUBE LINK FOR DEMONSTRATION
+https://youtu.be/3nmhUf1ZDYc
